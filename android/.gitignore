@@ -7,7 +7,6 @@ build/
 captures/
 local.properties
 
-gradle/
 local.properties
 
 GeneratedPluginRegistrant.java
